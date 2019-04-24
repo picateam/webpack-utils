@@ -1,10 +1,10 @@
-## steamer-webpack-utils
-steamer 脚手架 webpack utils 函数
+## webpack-utils
+脚手架 webpack utils 函数
 
-[![NPM Version](https://img.shields.io/npm/v/steamer-webpack-utils.svg?style=flat)](https://www.npmjs.com/package/steamer-webpack-utils)
-[![Travis](https://img.shields.io/travis/steamerjs/steamer-webpack-utils.svg)](https://travis-ci.org/steamerjs/steamer-webpack-utils)
-[![Deps](https://david-dm.org/steamerjs/steamer-webpack-utils.svg)](https://david-dm.org/steamerjs/steamer-webpack-utils)
-[![Coverage](https://img.shields.io/coveralls/steamerjs/steamer-webpack-utils.svg)](https://coveralls.io/github/steamerjs/steamer-webpack-utils)
+[![NPM Version](https://img.shields.io/npm/v/@pica/webpack-utils.svg?style=flat)](https://www.npmjs.com/package/@pica/webpack-utils)
+[![Travis](https://img.shields.io/travis/picateam/webpack-utils.svg)](https://travis-ci.org/picateam/webpack-utils)
+[![Deps](https://david-dm.org/picateam/webpack-utils.svg)](https://david-dm.org/picateam/webpack-utils)
+[![Coverage](https://img.shields.io/coveralls/picateam/webpack-utils.svg)](https://coveralls.io/github/picateam/webpack-utils)
 
 
 ### 接口函数
